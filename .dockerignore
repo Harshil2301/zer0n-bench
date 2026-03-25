@@ -1,0 +1,26 @@
+# Docker ignore file
+.git/
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+node_modules/
+
+# Keep only essential files for validation
+# Everything else is included by default

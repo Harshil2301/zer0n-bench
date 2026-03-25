@@ -6,7 +6,7 @@
 To provide a verifiable, tamper-evident benchmark for vulnerability detection models. Existing datasets lack provenance integrity (who generated the label?) and often contain "static obsolescence." Zer0n-Bench addresses this by anchoring every label to the Avalanche blockchain, allowing any researcher to independently verify that labels have not been altered since publication.
 
 **Who created the dataset?**
-The authors of "Zer0n-Bench: A Provenance-Aware Vulnerability Dataset for Studying Label Reliablity" (Data4SoftSec '26).
+The authors of "Zer0n-Bench: A Provenance-Aware Vulnerability Dataset for Studying Label Reliability" (Data4SoftSec '26).
 
 ## Composition
 
