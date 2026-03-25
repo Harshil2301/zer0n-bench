@@ -1,0 +1,1001 @@
+target_id,category,Expert_A,Expert_B,Expert_C,Expert_D,Zer0n_Label,Final_Consensus
+github.com/aws/flutter/api/v1/views.py,Access Control,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x40bc9469941a73d005d062c982b5a4736a2b4a7a,Improper Input Validation,Safe,Safe,Safe,Safe,Safe,Safe
+0x687988f4019eb04b791c1f3e7fbb25c27a55959e,Cross-site Scripting (XSS),Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Indeterminate
+DELETE https://api.example.com/v1/files/upload,SQL Injection,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/apache/guava/src/main/java/com/example/index.ts,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/kubernetes/lib/utils/index.ts,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/admin/config,Missing Authorization,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xe43edc74ca3764d2d1a68da4e92fd33cee6b6d16,Use of Insufficiently Random Values,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xdc4199557389409d402f0df57d7c005b97ff3dcd,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/spring-boot/internal/auth/main.go,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/netflix/tensorflow/api/v1/main.go,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x19a6b24a84b1f6d9dba8dfa2048098a3103aac21,Unchecked Return Value,Safe,Safe,Safe,Safe,Safe,Safe
+http://altoromutual.com/bank/login.aspx,SQL Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xfc34de5f00cffa67c013f34e207db69c4df2f26a,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x39adadada201d68d2b26d70c93838dbf45ae0b00,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/react/internal/auth/LoginController.java,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/vscode/internal/auth/config.rb,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/flask/src/main/java/com/example/LoginController.java,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/spring-boot/app/controllers/views.py,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x22b93f3c9a7063255a67df0974b62813649a8bde,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+http://testphp.vulweb.com/listproducts.php?cat=3,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x44dacbd7405b35ca918d2c32438109c1645ddf37,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xbcef33c3e91f539224de961ff1c3c25dedbf145c,Improper Authentication,Safe,Safe,Safe,Safe,Safe,Safe
+GET https://api.example.com/v1/users,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x9ec8fe3ad25da54e774747ff0ec930e87cdfef97,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/react/internal/auth/index.ts,Use of Insufficiently Random Values,Safe,Safe,Safe,Safe,Safe,Safe
+PUT https://api.example.com/v1/users,Improper Input Validation,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+0x05057c792e42abe5c9ec68710849668126089fe3,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/flutter/lib/utils/index.ts,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp?query=test,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/vscode/api/v1/LoginController.java,Integer Overflow,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0xb3169f46fc2c4b28f397ce40d0dbb6d113086b4d,Unchecked Return Value,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/tensorflow/app/controllers/LoginController.java,Improper Input Validation,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/users,SQL Injection (API),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx,None,Safe,Safe,Safe,Safe,Safe,Safe
+0xe1d116a7fafd9638db3e97b42717faa2aac2a23f,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xc4ebad7aca83827739d22367e034ac09daeb0310,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/google/vscode/src/main/java/com/example/LoginController.java,Reentrancy,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/tensorflow/src/main/java/com/example/index.ts,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/flutter/app/controllers/LoginController.java,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup2?query=test,Incorrect Calculation,Vulnerable,Safe,Vulnerable,Safe,Safe,Safe
+github.com/facebook/ansible/app/controllers/config.rb,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/auth/login,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/uber/django/lib/utils/main.go,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+https://juice-shop.herokuapp.com/#/search?q=apple,Access Control,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/react/lib/utils/auth.js,Improper Access Control,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/admin/config,Unchecked Return Value,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup3?query=test,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/django/api/v1/views.py,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/microsoft/kubernetes/lib/utils/index.ts,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0xe9db6b6afe3e7faa27c28ed6f54b1c69dd490d15,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x5932ba3b92f59013d172c676ead91bad58187884,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/data/export,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xbb8dd72f3bafc025fff153e1959c68b8c1f9009e,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/spring-boot/api/v1/LoginController.java,Access Control,Safe,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable
+DELETE https://api.example.com/v1/users,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/kubernetes/internal/auth/main.go,Improper Authentication,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/flutter/lib/utils/User.php,Missing Authentication for Critical Function,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/tensorflow/app/controllers/main.go,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xa887de5c9b95da2490d5001ad4790c70b305dfd7,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup2,None,Safe,Vulnerable,Safe,Safe,Safe,Safe
+http://demo.testfire.net/search.jsp_dup4?query=test,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/django/app/controllers/LoginController.java,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/spring-boot/src/main/java/com/example/User.php,Missing Authentication for Critical Function,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/shopify/spring-boot/server/routes/LoginController.java,OS Command Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x56b98392099d1443ac37546b4e5dcfe020968d6f,CSRF,Safe,Safe,Safe,Safe,Safe,Safe
+0x8a2e21768302c5fe011dd08aa0b2f6a020086e22,Cross-Site Scripting,Vulnerable,Safe,Safe,Safe,Safe,Safe
+github.com/microsoft/flask/lib/utils/config.rb,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/payment/charge,Missing Authentication for Critical Function,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/payment/charge,OS Command Injection,Safe,Vulnerable,Safe,Safe,Safe,Safe
+DELETE https://api.example.com/v1/files/upload_dup2,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x62a7e8b6ec2e36c42860b00be037991dedbe801f,Reentrancy,Vulnerable,Safe,Vulnerable,Safe,Safe,Safe
+github.com/facebook/flask/src/main/java/com/example/User.php,Missing Authentication for Critical Function,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testphp.vulweb.com/listproducts.php?cat=2,CSRF,Safe,Safe,Safe,Safe,Safe,Safe
+http://testfire.net/bank/login.aspx_dup2,Improper Authentication,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/uber/tensorflow/app/controllers/auth.js,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/react/app/controllers/main.go,Integer Overflow,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/react/internal/auth/LoginController.java,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/flask/server/routes/User.php,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/flutter/server/routes/User.php,None,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/google/vscode/app/controllers/LoginController.java,Incorrect Calculation,Safe,Vulnerable,Safe,Safe,Vulnerable,Safe
+0x695bfd74bbf6e0bd4cbe1f2f15693c4e9a529aa8,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/spring-boot/app/controllers/views.py,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x7f4422df77bdfec90618ae1638675bdf8fd9fe15,Use of Insufficiently Random Values,Safe,Safe,Safe,Safe,Safe,Safe
+http://altoromutual.com/bank/login.aspx_dup3,None,Safe,Safe,Safe,Safe,Safe,Safe
+0xaaa61c3afbdeef3f4fa59d4535858e020002b88c,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/admin/config,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/kubernetes/src/main/java/com/example/User.php,None,Safe,Safe,Safe,Safe,Safe,Safe
+PUT https://api.example.com/v1/users_dup2,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/spring-boot/internal/auth/main.go,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/admin/config_dup2,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/aws/ansible/server/routes/views.py,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xe9ab5d0b1835780cb9f582b168d52f7d31a44f8c,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/data/export,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup5?query=test,Access Control,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/tensorflow/src/main/java/com/example/index.ts,CSRF,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/airbnb/kubernetes/src/main/java/com/example/views.py,CSRF,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/airbnb/spring-boot/app/controllers/config.rb,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/spring-boot/internal/auth/main.go,Improper Input Validation,Safe,Safe,Safe,Safe,Safe,Safe
+POST https://api.example.com/v1/files/upload,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x3ffab4e7dbbf66cfbb33192dc76307a5c2190572,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x49e296c1d285affe5486b646e98a1f8f5850c4dc,Improper Input Validation,Safe,Safe,Vulnerable,Safe,Safe,Safe
+http://altoromutual.com/bank/login.aspx_dup4,Use of Insufficiently Random Values,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/facebook/flask/server/routes/views.py,Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/aws/django/lib/utils/auth.js,Incorrect Calculation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/airbnb/vscode/app/controllers/views.py,Missing Authentication for Critical Function,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x616233bd243eee13632cd4f65cab482ca3cc9e15,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/react/internal/auth/config.rb,Integer Overflow,Safe,Safe,Safe,Safe,Safe,Safe
+0x4d4a0278c29a5ceb67b0bb045dc75fe97d92da6c,Incorrect Permission Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x5e17fde0fdf348f7fd9e24199ad7a2f0f040ceb4,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/data/export,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x48b22acb243a95c538b0c971c4b5a86b5a3de8f9,Access Control,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+GET https://api.example.com/v1/auth/login,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x69154c2b18b28da1a52523bc656b59b4609b4305,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/spring-boot/src/main/java/com/example/views.py,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x09936ed36cbfbc350d69348e086ffa651ff54ab4,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/tensorflow/server/routes/index.ts,Reentrancy,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/facebook/django/server/routes/LoginController.java,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/django/lib/utils/auth.js,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/react/lib/utils/auth.js,None,Safe,Safe,Safe,Vulnerable,Safe,Safe
+PATCH https://api.example.com/v1/users_dup2,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/admin/config,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0xa768a6034340a81b6e4729a2dcf8649015493b64,Incorrect Permission Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/django/server/routes/LoginController.java,Missing Authentication for Critical Function,Safe,Safe,Safe,Safe,Safe,Safe
+0x4acfcc2f88319f0b56188059023316652773b987,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xec5d5879f66d46246fac70935b540e965f71ba6a,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/guava/src/main/java/com/example/config.rb,Unchecked Return Value,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/django/lib/utils/auth.js_dup2,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x652216cc718bcb8d7515ef7ce387c5728e794f11,SQL Injection (API),Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Indeterminate
+http://testfire.net/bank/login.aspx_dup3,Access Control,Safe,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/shopify/ansible/src/main/java/com/example/main.go,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/react/server/routes/views.py,Improper Access Control,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x2d7a4cc7cf4ac6748be467d02871bc3d721ff768,SQL Injection (API),Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Indeterminate
+DELETE https://api.example.com/v1/payment/charge,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xa5e02fceaa343c0c7ac4485face79d56c9ac8580,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x66cbf76854348842182100b3cfeda08e9f60321c,Incorrect Permission Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xb8497f4e8b87fddcccbf1fa0e4c496ecca2c7c6f,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x387c3ea23548564bc9f83858997dc06acd390953,Improper Authentication,Vulnerable,Safe,Vulnerable,Safe,Safe,Safe
+0x3948e8ba591f47ade8ef8504e83a8ad07b4ca1c5,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/flutter/lib/utils/index.ts,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x9c65a347c0dd8f934bdd3f4c0dd80bad137017bb,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xc561c98202096855b917ffc7c61f712d0325686a,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/react/api/v1/index.ts,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x9b4841fcd1e2d409c739af0952c6b9518e2c73d5 (Uniswap V3 Pool),Incorrect Calculation,Vulnerable,Vulnerable,Safe,Safe,Safe,Safe
+github.com/facebook/guava/internal/auth/main.go,Improper Authentication,Safe,Vulnerable,Safe,Safe,Vulnerable,Safe
+github.com/netflix/django/api/v1/main.go,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x0c292a1edada0990a8d29ac1d05ea4d1a014805a,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx_dup4,Improper Authentication,Safe,Vulnerable,Vulnerable,Safe,Vulnerable,Indeterminate
+github.com/uber/flask/lib/utils/main.go,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x77490a02b70d8c8760e8e80b243e9f19a42fd6ac (Uniswap V3 Pool),Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx_dup5,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x48a69e3443cdea5aa07e694cd7a8c6816c9c32f0,Access Control,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/guava/lib/utils/LoginController.java,Use of Insufficiently Random Values,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/vscode/server/routes/main.go,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x18ee58266cc4b2830f5166a3604ac385ea5f6ef0,Missing Authorization,Safe,Safe,Safe,Safe,Safe,Safe
+PATCH https://api.example.com/v1/auth/login,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x33eb4a575c266b1b9ef2a1ff676063a103625fcd,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/flutter/api/v1/config.rb,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/flask/lib/utils/LoginController.java,Access Control,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup6?query=test,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/react/internal/auth/LoginController.java_dup2,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup7?query=test,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/users_dup2,Mass Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x126c1a6ff10c82ed5cca6a9ef0d570f48501e65d,Incorrect Permission Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xb773144d6aa23009f6c2602ccc0a229596dcab8f,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx_dup6,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/microsoft/react/app/controllers/config.rb,Improper Authentication,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/admin/config_dup3,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf30c63c174a297c9dc4d8eba1eb11d8127e8bda3,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xa769529bfec14ea1cebb5500dbe4ea64ff470a9b (Uniswap V3 Pool),Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x62dc179cd213dfaabf086260ae8845da5d92ee2e,Cross-Site Scripting,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xcbb955f26d9ebe0064f8e3e96493953cdfa9cae1 (Uniswap V3 Pool),Incorrect Calculation,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x027d7451f2d946e6e92bbed7aff908807c2b0731,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/kubernetes/lib/utils/index.ts,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x0cb357163f2cf4238d878d2efbed712466b254f8,Mass Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/auth/login_dup2,None,Safe,Safe,Safe,Safe,Safe,Safe
+http://demo.testfire.net/search.jsp_dup8?query=test,Access Control,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x373f125a6be8ee1a65ee96df8dc31d636c4007b8,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/flask/api/v1/config.rb,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/users,Missing Authorization,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/shopify/ansible/app/controllers/main.go,Reentrancy,Safe,Safe,Vulnerable,Safe,Safe,Safe
+PUT https://api.example.com/v1/data/export,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://zero.webappsecurity.com/index.html,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x2bb8e8b139f9c4dccb7068b465228bf7e9a072ae (Uniswap V3 Pool),OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://zero.webappsecurity.com/index.html_dup2,Integer Overflow,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/data/export_dup2,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x96367be54b91b5b786571bc35d1cf4fc8ec3ef0e,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup9?query=test,Missing Authorization,Safe,Safe,Safe,Vulnerable,Safe,Safe
+http://altoromutual.com/bank/login.aspx_dup5,Improper Authentication,Safe,Safe,Safe,Safe,Safe,Safe
+0xaed3a79409b7d456b240aab68fa946b3deeb2314,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/tensorflow/api/v1/views.py,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x8029cade455d95b841e79e0604a752c358e725e1,SQL Injection (API),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xa970bf49f2865962118640cd955bf08ccb43e2dc,OS Command Injection,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/apache/flask/src/main/java/com/example/LoginController.java,Use of Insufficiently Random Values,Vulnerable,Safe,Safe,Safe,Safe,Safe
+GET https://api.example.com/v1/files/upload,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/twitter/react/api/v1/views.py,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/ansible/app/controllers/main.go,Improper Input Validation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/twitter/guava/app/controllers/LoginController.java,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x02b8d79f8ca10d32f19ab29b40c382ab912acad9,None,Safe,Safe,Vulnerable,Vulnerable,Safe,Indeterminate
+github.com/uber/vscode/src/main/java/com/example/index.ts,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/kubernetes/api/v1/LoginController.java,None,Safe,Safe,Safe,Safe,Safe,Safe
+0xcd20c44a7b288d0add548daabebc22f9497dfe5a,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/users_dup3,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/ansible/lib/utils/LoginController.java,Incorrect Calculation,Safe,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/uber/spring-boot/internal/auth/main.go,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x7c14433c25c65c87f62a70ea610be79980580a7b,SQL Injection,Safe,Safe,Safe,Vulnerable,Safe,Safe
+PUT https://api.example.com/v1/users_dup4,SQL Injection,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/flask/server/routes/LoginController.java,Integer Overflow,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/data/export,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/users_dup2,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x59cf77b50b5e7900e8e724ff5935ac9b9c56cb47,CSRF,Vulnerable,Vulnerable,Safe,Safe,Safe,Safe
+github.com/google/kubernetes/internal/auth/index.ts,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xbb75d63d03444e8642f48b7780cbf4a48ed7e34e,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/react/internal/auth/LoginController.java,OS Command Injection,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/uber/spring-boot/api/v1/index.ts,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x902d3c826528bb97dc540198d4c31a0014cf3264,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x34c7c1836bfc6721d01c179dc45a51ad1f8ecfed,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/netflix/flutter/lib/utils/views.py,None,Vulnerable,Vulnerable,Safe,Safe,Safe,Indeterminate
+0xa3a4862859afffa2d6100a4054072b832653e062,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x3751a916f21036c4f821397728d18d68c21e563c,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x950db10ef4d9aa045ae31b81ada6ae66c107cf51,Integer Overflow,Safe,Safe,Safe,Safe,Safe,Safe
+0x8a7542e17e8fdd0a994a0e5e05591b2af351e40f,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/flask/lib/utils/LoginController.java,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/payment/charge_dup2,Improper Access Control,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x18b49b8314182a59aac9f74a6468f60629caf5c4,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x36d3b01289723f0b689f7e762337703d87cc2a4a,Unchecked Return Value,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0xd7e60a861373f5ad6a4a5cd3901a82337937031a,OS Command Injection,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x3f39d18fd284e284b7166a0676b7eefe578a60f4,Improper Access Control,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0xd023381f690a33db974efae217bcdbaf0a996310,None,Safe,Safe,Safe,Safe,Safe,Safe
+PATCH https://api.example.com/v1/data/export_dup2,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x6018ae1ea20f26d859ba581ef838f23f566cc510 (Uniswap V3 Pool),CSRF,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+https://juice-shop.herokuapp.com/#/search?q=admin,Incorrect Calculation,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/tensorflow/api/v1/views.py,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/admin/config_dup2,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/flutter/src/main/java/com/example/index.ts,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/flask/internal/auth/views.py,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x38ffba1b16d19d27c53eb4e36f261fc024083a4f,OS Command Injection,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://crackme.cenzic.com/keystroke.php,OS Command Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/data/export_dup2,Mass Assignment,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xdc34874ff9a16d02f6a884894eec1dffb769a886,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xbb98438b7e5416de33a3e7c8a9f0d9b91e43318a,SQL Injection,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/guava/api/v1/index.ts,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/flask/api/v1/config.rb,Use of Insufficiently Random Values,Safe,Vulnerable,Safe,Safe,Safe,Safe
+github.com/netflix/spring-boot/internal/auth/index.ts,Cross-Site Scripting,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/tensorflow/server/routes/LoginController.java,OS Command Injection,Safe,Safe,Safe,Safe,Safe,Safe
+0xf33f0426841a4c12e7e42bb1d3b5efc6ab9e11ab (Uniswap V3 Pool),Improper Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/shopify/spring-boot/server/routes/User.php,None,Safe,Safe,Safe,Safe,Safe,Safe
+0xd3f419e8b4b452bef7b5c3240cb641da0f586678,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx_dup7,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/vscode/src/main/java/com/example/config.rb,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xcdb4b0ffa36aca64d31bcdf413cd5bc9658e9ec8,Improper Input Validation,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Indeterminate
+github.com/shopify/ansible/internal/auth/config.rb,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/payment/charge_dup2,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/guava/server/routes/LoginController.java,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0xa87e858bfb22293f50ec84ba6efba5a97075c28b,Integer Overflow,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x4c7cd67cc48977a473dca761f04d5ecd0a7383ab,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x316e10e4c07a5a9f4ac985e5d9560f67c7aa9dc9,Incorrect Calculation,Safe,Safe,Safe,Safe,Safe,Safe
+POST https://api.example.com/v1/data/export_dup2,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x5de9854e7e93173f7dea670b11c0b2f4cfe0b302 (Uniswap V3 Pool),Access Control,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/shopify/flutter/server/routes/main.go,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/django/api/v1/LoginController.java,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/ansible/lib/utils/LoginController.java,Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+0xb9a4f2db0d1043af4de0b31d7759656eed888a25,Improper Access Control,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup6,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x8282f2ce3170603365a45a394e264e679540be1a,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/django/api/v1/config.rb,Integer Overflow,Vulnerable,Safe,Vulnerable,Safe,Safe,Safe
+github.com/shopify/kubernetes/src/main/java/com/example/config.rb,CSRF,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/uber/flask/api/v1/views.py,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/react/internal/auth/index.ts,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/aws/ansible/app/controllers/User.php,Missing Authentication for Critical Function,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/data/export_dup2,Missing Authentication for Critical Function,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x60b21eb5bf221301887c27fe4ea3ccbba94dcda1,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/react/server/routes/LoginController.java,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/airbnb/ansible/app/controllers/config.rb,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xd08e8e0980f1ed30bd2ddc4e701048e702db6525,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/users_dup2,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xcf9f3768d39ab2ef9dc42efb9c47700f41df22a6,Unchecked Return Value,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/flutter/api/v1/main.go,Incorrect Permission Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/tensorflow/api/v1/LoginController.java,None,Safe,Safe,Safe,Safe,Safe,Safe
+0xaf39e1f700449b473f8e140f79647a60093b5072,None,Safe,Safe,Safe,Safe,Safe,Safe
+DELETE https://api.example.com/v1/users_dup3,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/tensorflow/lib/utils/views.py,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf3812d0200f32fc5a8197693af92dab1352a1823,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xca234730972821b658512c739e7278ff289b583d,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/spring-boot/app/controllers/main.go,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x024f8390ddee2c93bcc1ad818e75300a93c0d1e6,OS Command Injection,Safe,Safe,Safe,Safe,Safe,Safe
+PATCH https://api.example.com/v1/data/export_dup3,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup10?query=test,CSRF,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/users_dup5,None,Vulnerable,Safe,Vulnerable,Safe,Safe,Indeterminate
+github.com/google/react/api/v1/main.go,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/flutter/lib/utils/LoginController.java,Access Control,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0xb141437af095682a6289a94c35a5d660a1e49cc0,Improper Access Control,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0x35ab48189d2b5d0f01bd6753fd3f6752c6406387,Access Control,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/admin/config_dup3,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/data/export_dup3,Improper Access Control,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/django/app/controllers/LoginController.java,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x5fb3e656560c3f7a6edafb152e9dffe2ba26d492,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/files/upload,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x2b448ffc62da0ca7f2df06c97572f7667d5339a3,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/flutter/server/routes/views.py,Improper Authentication,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/django/app/controllers/views.py,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x7ae6af9bcebe83f27bed086852291df50e4af77e,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/react/internal/auth/config.rb,Reentrancy,Safe,Vulnerable,Safe,Vulnerable,Safe,Safe
+github.com/netflix/tensorflow/api/v1/config.rb,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x8182c4871138c02cfa8b73dd770226944f9f4013 (Uniswap V3 Pool),Access Control,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+0x960a52992ebe0a1db24fb90e352ab6fb5c875e2e,SQL Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/django/api/v1/views.py,Incorrect Calculation,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/django/app/controllers/config.rb,Improper Authentication,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x0f327252396bab204fac3950ac42f7b0c7919a12,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x31852bf57d510365b342f3e71015c273c7dcaf45,Improper Input Validation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/microsoft/flutter/src/main/java/com/example/views.py,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xc122dcf51aecd21b824dafceec0db97fac26fad7,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/data/export_dup3,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xadd3042e741879f04f530d0d6634d5189af78340,Missing Authorization,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x5a5161b91f89a301662c773e75d5227a94f739ed,Improper Access Control,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/uber/spring-boot/lib/utils/index.ts,None,Vulnerable,Safe,Safe,Safe,Safe,Safe
+github.com/google/spring-boot/lib/utils/config.rb,Improper Authentication,Safe,Safe,Safe,Safe,Safe,Safe
+0x7c0095926311f834788e6e8249bf80fdbe8fec35,Improper Access Control,Safe,Vulnerable,Vulnerable,Safe,Safe,Safe
+GET https://api.example.com/v1/auth/login_dup2,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x02767299a7b18487a7ea0747b6f0968106bf75ad,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/tensorflow/internal/auth/config.rb,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/ansible/internal/auth/LoginController.java,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xeacd7b8af94e61257d2c239de9f44bdb926eaf06,Improper Input Validation,Vulnerable,Safe,Vulnerable,Safe,Safe,Safe
+0x529611d97483f972bb7a6567041d91211fb3817e,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/users_dup3,Incorrect Calculation,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/flutter/server/routes/LoginController.java,Incorrect Calculation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/facebook/tensorflow/server/routes/auth.js,OS Command Injection,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/flutter/server/routes/User.php,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/django/api/v1/User.php,Improper Authentication,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://crackme.cenzic.com/keystroke.php_dup2,Improper Access Control,Vulnerable,Safe,Vulnerable,Safe,Safe,Safe
+github.com/microsoft/flask/lib/utils/LoginController.java_dup2,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/auth/login,None,Safe,Vulnerable,Safe,Safe,Safe,Safe
+github.com/uber/django/app/controllers/main.go,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x1e772df5c2dda802d55eb62cf335db967ca9e3ca,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/files/upload_dup2,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x9c25f0e7558c84e4db1fc969fd18909d4b5ec0a1,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x92da5feef583ea0cd911c678d96268d49865652b,Integer Overflow,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/admin/config_dup4,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x74defcbb311fa60b4ea29304590185b6cbc673c7,Incorrect Calculation,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x3b30cb0cc91c6198b2ee83a9dddd72171136f401,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x51e063a110b47ea2e1dc83dabfce053599d22c48,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x4ab6b7c60ba626ab60b7ff9f69f80d6d2fac38b6,Cross-site Scripting (XSS),Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Indeterminate
+github.com/airbnb/spring-boot/api/v1/views.py,Incorrect Calculation,Vulnerable,Vulnerable,Safe,Safe,Safe,Safe
+0x1e3d26382055fc3111ac9ebc1cd060b927520a73,Integer Overflow,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/airbnb/django/app/controllers/views.py,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xb0f9dca95007d493a87c9c59f914854c4afbe8ef,Integer Overflow,Safe,Safe,Safe,Safe,Safe,Safe
+0x8dff517a7c59bd981948a609b013b3fedc60f616,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x9d5fd3b9acc53ee1ded28359a6904c03c6e236c6,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x8d40e3e3ad1e21cb13266fb301b64e1f0f928a11,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xbfd3f72e05cb4119e09dde32a7b6d0bdd7adaf2a,Missing Authorization,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0x599611dc4416bf1c16c82878a886e0b1906d0349,SQL Injection (API),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xa7015be29627ab2a399ca3d980a55c5d5ba5f73b,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xd2e14bac0b0dd47f378c8b45f7204e350bec7b71,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x231b5890457ec49bb44e0969abf00d35050309fd,Improper Authentication,Safe,Safe,Safe,Vulnerable,Safe,Safe
+0x1cbf3e74ed1bb8d63a3cb948efae1c5a487c4ea3,Missing Authorization,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/google/tensorflow/internal/auth/config.rb,Missing Authorization,Safe,Vulnerable,Safe,Safe,Safe,Safe
+0x229e9d5c13bf16fde24c1741ec11e9baf53ab3e6,Reentrancy,Vulnerable,Safe,Vulnerable,Safe,Safe,Safe
+0xd488dd7551eff34407c5a62d39e7209c8d778392 (Uniswap V3 Pool),Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup7,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xd2b7cda9a114c90f8b4b0d626584893766e881f3,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/flutter/internal/auth/config.rb,Cross-Site Scripting,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x37235329770e0f38af5ca6b204216d33f277acb2,Missing Authentication for Critical Function,Safe,Vulnerable,Safe,Safe,Safe,Safe
+github.com/airbnb/guava/server/routes/User.php,CSRF,Safe,Safe,Safe,Safe,Safe,Safe
+PUT https://api.example.com/v1/users_dup6,Unchecked Return Value,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/microsoft/kubernetes/api/v1/User.php,Incorrect Calculation,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x7d30401238f04e5dd7ea0829b9917d4398058595,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x82f7102ebb2b8bba7bf8ec0c652500b908a8afb5 (Uniswap V3 Pool),CSRF,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/payment/charge_dup2,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/files/upload,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/tensorflow/api/v1/main.go,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/users_dup3,Unchecked Return Value,Safe,Safe,Safe,Safe,Safe,Safe
+0x65dab190f4adfec559f47f6329bc599b2bad3409,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/flutter/app/controllers/views.py,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/payment/charge_dup3,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x76ad8deb7c7ede4c43d11f38472da1d9f848afd3,None,Vulnerable,Safe,Vulnerable,Safe,Safe,Indeterminate
+0x3dd067a4e320240df8d5b3e0d0e9ade0f28da4ef,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup11?query=test,Incorrect Calculation,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/django/app/controllers/LoginController.java,Use of Insufficiently Random Values,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+GET https://api.example.com/v1/users_dup3,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x494043bf2327b065cf9b3b1fa944840e6138060b,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/ansible/api/v1/User.php,Improper Access Control,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/guava/app/controllers/User.php,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/auth/login_dup3,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/flutter/internal/auth/auth.js,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup12?query=test,None,Safe,Vulnerable,Safe,Safe,Safe,Safe
+http://testfire.net/bank/login.aspx_dup8,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/flask/api/v1/views.py,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/microsoft/django/app/controllers/index.ts,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/files/upload_dup2,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x8da361e4e3aa0d20f0b0fed934b7a41f51749a78 (Uniswap V3 Pool),Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/spring-boot/app/controllers/views.py_dup2,Improper Access Control,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/payment/charge_dup4,Missing Authentication for Critical Function,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+0x9a0b218c3cc3aaa2370c0be721fd267212dc948f,Incorrect Calculation,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xc6eb0d7ec1d43985259d75ebd5560b4b7c8a2d8d,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/files/upload_dup3,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x7841a7ed19744b93bbb90cc7806c17a2ef2d175f,Use of Insufficiently Random Values,Safe,Safe,Safe,Safe,Safe,Safe
+http://altoromutual.com/bank/login.aspx_dup8,Access Control,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/guava/lib/utils/index.ts,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x6e449a3b44e638ca3044382849c92bf890be75ab,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/kubernetes/server/routes/User.php,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/google/vscode/internal/auth/index.ts,Missing Authorization,Vulnerable,Safe,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/google/kubernetes/server/routes/LoginController.java,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/files/upload_dup3,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/auth/login_dup2,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/react/app/controllers/LoginController.java,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/shopify/kubernetes/api/v1/config.rb,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/spring-boot/server/routes/index.ts,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/ansible/src/main/java/com/example/index.ts,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x719c672b14877e6571f4e716c7b8be1247c13a0a,Improper Input Validation,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx_dup9,Reentrancy,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/twitter/flutter/src/main/java/com/example/views.py,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/guava/lib/utils/LoginController.java,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/users_dup7,Improper Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+PATCH https://api.example.com/v1/payment/charge_dup3,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup13?query=test,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/flutter/server/routes/main.go,Access Control,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/spring-boot/lib/utils/config.rb,Improper Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+DELETE https://api.example.com/v1/data/export_dup4,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/kubernetes/src/main/java/com/example/index.ts,Cross-Site Scripting,Safe,Vulnerable,Safe,Safe,Safe,Safe
+POST https://api.example.com/v1/data/export_dup4,Incorrect Calculation,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/django/src/main/java/com/example/auth.js,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xb0cf6b05e8d3fa0b392ad5c110b1cded1abba1f8,Missing Authorization,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/payment/charge,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup9,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx_dup10,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x54318fc160ddfffdc94cf54eba0cc70fe05c49af,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/uber/react/src/main/java/com/example/config.rb,Unchecked Return Value,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/apache/vscode/api/v1/config.rb,Improper Authentication,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xacee32c17a2d9b540a483b1ebde364250e39a972,OS Command Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x467b56e5299064b90e49cc75b970c7c6239996eb,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf43523c3ba301e57487f01631fb80461d8658a5f,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/flutter/src/main/java/com/example/auth.js,Improper Authentication,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/ansible/lib/utils/main.go,SQL Injection,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup14?query=test,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/react/src/main/java/com/example/views.py,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/netflix/ansible/server/routes/views.py,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/twitter/ansible/internal/auth/User.php,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x6c35838b88c751f50f180a50d69e9feb7ba0a652,None,Safe,Safe,Safe,Safe,Safe,Safe
+http://testphp.vulweb.com/listproducts.php?cat=4,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testphp.vulweb.com/listproducts.php?cat=1,CSRF,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf97dc4d2b29e0bec6031e88042fa8f5c235172cd,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/guava/lib/utils/views.py,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xbaa544915978c9f0716152ba265178cc0ee61821,Integer Overflow,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x4be80e98c74c79596f9d681e45a904a32c1d9774,Reentrancy,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/ansible/api/v1/LoginController.java,Use of Insufficiently Random Values,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0x051e0f36c06e3402141d0126d4f26279f549076e,SQL Injection,Safe,Safe,Safe,Safe,Safe,Safe
+0x099c6b28c889858359b6b96315414efe07fc0c8c,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/flutter/src/main/java/com/example/auth.js,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/apache/vscode/internal/auth/index.ts,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x53b03b093bb19eec32eb96dea4b8f89600f6a99f,Missing Authentication for Critical Function,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/auth/login_dup2,Integer Overflow,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x73c6f04cde343e04a4a84346760ecde6fe100152,Incorrect Calculation,Safe,Safe,Vulnerable,Safe,Vulnerable,Safe
+0xb0e3e5846677c61b20890667db8d6189d09ba9dc,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/flask/internal/auth/User.php,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/microsoft/django/server/routes/LoginController.java,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/payment/charge_dup3,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/kubernetes/server/routes/views.py,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/vscode/internal/auth/index.ts,Reentrancy,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/aws/kubernetes/src/main/java/com/example/views.py,Improper Access Control,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/users_dup4,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/twitter/spring-boot/app/controllers/auth.js,Reentrancy,Safe,Safe,Safe,Safe,Safe,Safe
+PUT https://api.example.com/v1/auth/login_dup3,Cross-Site Scripting,Safe,Safe,Safe,Vulnerable,Safe,Safe
+github.com/google/flask/src/main/java/com/example/LoginController.java,Cross-Site Scripting,Safe,Safe,Safe,Safe,Safe,Safe
+0x33c255aaa88c32d9bbe686593522626ed913407a (Uniswap V3 Pool),Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x63fac99b686191fca14d5e7039455321037db5d0 (Uniswap V3 Pool),Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf79e8082f398c927285bd87b3744886586c0ea68,Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/shopify/tensorflow/src/main/java/com/example/config.rb,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x7ff8c0aa6a7fdf4a589c243fd6fc61d466f622a6,Access Control,Safe,Safe,Safe,Vulnerable,Safe,Safe
+PATCH https://api.example.com/v1/files/upload_dup4,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x0cfc58a9a37b1c25c2b12c2bcab6ec9925fb1c5a,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x56f497a10eab34261586d360d36eb901c5cea64e,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/auth/login,Incorrect Calculation,Vulnerable,Safe,Safe,Safe,Safe,Safe
+github.com/microsoft/ansible/internal/auth/auth.js,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/spring-boot/src/main/java/com/example/index.ts,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup10,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/flask/api/v1/config.rb_dup2,CSRF,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/users_dup4,Improper Input Validation,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/auth/login_dup3,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/airbnb/tensorflow/api/v1/index.ts,None,Safe,Safe,Safe,Safe,Safe,Safe
+GET https://api.example.com/v1/auth/login_dup4,SQL Injection (API),Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf1670b3aa98c6691dd2e48a523d074fcfdbd2268,Reentrancy,Safe,Vulnerable,Safe,Safe,Vulnerable,Safe
+http://demo.testfire.net/search.jsp_dup15?query=test,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/tensorflow/lib/utils/auth.js,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/kubernetes/app/controllers/User.php,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/auth/login_dup3,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/auth/login_dup4,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/flutter/api/v1/auth.js,CSRF,Safe,Safe,Safe,Safe,Safe,Safe
+0x5369d022f1f09752844dc739b82a19275df90532,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x7a37f60c3b85d4d8bcb56d1076918a179e6096c8,Unchecked Return Value,Vulnerable,Safe,Safe,Vulnerable,Safe,Safe
+DELETE https://api.example.com/v1/data/export_dup5,Reentrancy,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/kubernetes/lib/utils/LoginController.java,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/flask/server/routes/LoginController.java_dup2,Missing Authentication for Critical Function,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0xff992ed4ad1a1a4b94d9df96a69f24064e20b5ba (Uniswap V3 Pool),Unchecked Return Value,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xbe11e00b6d742f9d98f7156a85458e4532d025b2,Improper Input Validation,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/ansible/src/main/java/com/example/index.ts,Improper Input Validation,Safe,Safe,Safe,Safe,Safe,Safe
+http://demo.testfire.net/search.jsp_dup16?query=test,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x2de5a9b5e40ee630c6d05a78ea7543079f6f21d5,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xd042d598967234428c87b1e9fffba0ff868868ad,Integer Overflow,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x453cfda1a18a03daee457fcb3eb014321175461b,Improper Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+0xfec26fcffe385a9a565f592cb78ee4dec797befe,Integer Overflow,Safe,Safe,Safe,Safe,Safe,Safe
+http://testfire.net/bank/login.aspx_dup11,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/ansible/app/controllers/index.ts,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x69ebaa760ec7c39949e2444def0d0be4e521738d,Cross-Site Scripting,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/tensorflow/api/v1/User.php,Use of Insufficiently Random Values,Safe,Safe,Safe,Safe,Safe,Safe
+0x4ff0649b30e4d1db16b454c6540b652d0128361a,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/admin/config,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/flask/api/v1/LoginController.java,Missing Authorization,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/vscode/internal/auth/main.go,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testphp.vulweb.com/listproducts.php?cat=5,Reentrancy,Vulnerable,Safe,Safe,Vulnerable,Vulnerable,Indeterminate
+PATCH https://api.example.com/v1/files/upload_dup5,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x579e44433b9e6dfc1fa9cb1008379fbf1db5a69f,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/flutter/api/v1/views.py,Missing Authorization,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup11,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/flutter/lib/utils/index.ts,Cross-Site Request Forgery (CSRF),Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup17?query=test,Integer Overflow,Safe,Vulnerable,Safe,Safe,Safe,Safe
+0x768802e95061ae6babd96596e2c7f03b65d63ca7,Improper Input Validation,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/vscode/src/main/java/com/example/User.php,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x0216c63ad1b489c5efde892cac0f0a35ee63c83f,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x7a5e07d4c1c1601ce9536be68929910ed7af5825,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/django/api/v1/index.ts,Missing Authorization,Safe,Safe,Safe,Safe,Safe,Safe
+0x2792ec040da069e9404340eeab62d0ba03a95ad3 (Uniswap V3 Pool),Mass Assignment,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/django/internal/auth/index.ts,Improper Input Validation,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/django/src/main/java/com/example/config.rb,Unchecked Return Value,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/microsoft/flutter/app/controllers/auth.js,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/django/server/routes/config.rb,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x07f5f01620da73063709c374fe16a20b3c8414d0 (Uniswap V3 Pool),SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x993f35c9650ef06b0c0d64e4824925ec224c22a0,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/kubernetes/api/v1/LoginController.java,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x7d32931a9e3de1090ac67bdff8c872571149c7a6,CSRF,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/netflix/flask/app/controllers/index.ts,Reentrancy,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/kubernetes/src/main/java/com/example/main.go,Improper Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+0x2ffff4e4b7e5e4169aa37195b5adc5a9675990d4,Incorrect Permission Assignment,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xe1e8418d1e26326971733888350812dd60ea27c6 (Uniswap V3 Pool),OS Command Injection,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x611834c89ccd1db5c34e641681efadbcb20b3335,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x91da306e260acbc3a3c3cbea45f730afd1ac6b7b,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x56f5a205da4b55ea40f980b29276b51e576af5fe,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x3060f87052e9031a3c333bcd44a53b28e7db9ae8,Missing Authentication for Critical Function,Safe,Safe,Safe,Vulnerable,Safe,Safe
+0xfce87237a8c41f64322859b2f0e179cf621bac09,SQL Injection,Safe,Vulnerable,Safe,Safe,Safe,Safe
+0x5f3e90d242fffce1b247f1ecc05a9caf5fa1c9c9,Access Control,Safe,Vulnerable,Safe,Safe,Safe,Safe
+0xf3efb314983d57fd158f9b07c3075801ccbda39b,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/kubernetes/api/v1/index.ts,Missing Authorization,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Indeterminate
+github.com/twitter/django/lib/utils/views.py,Unchecked Return Value,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xa88c0bbc573cea5c969c19e58868ec14e3f85434 (Uniswap V3 Pool),Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/vscode/internal/auth/User.php,Cross-site Scripting (XSS),Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/files/upload_dup3,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/guava/app/controllers/views.py,Cross-Site Scripting,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x0ad978b3c267aebeb92b2615b1f7b789f42653df,Missing Authorization,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/netflix/flutter/app/controllers/User.php,Incorrect Calculation,Safe,Safe,Safe,Safe,Safe,Safe
+0x531cada5c3e7faaca5ddb498fe038e6abc24b439,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x0331e507fcda492945505156568a669a26d08531,Reentrancy,Safe,Vulnerable,Vulnerable,Safe,Safe,Safe
+github.com/shopify/spring-boot/lib/utils/views.py,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/files/upload_dup2,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x26b91f0390b1f4754782ec9ddf0454178b3ab2ea,CSRF,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x7a527e095e501d8f42d7324022e710f5a981a5f5 (Uniswap V3 Pool),Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xfd0b7448e10fa6ee0a2eb10cf42c116edd0c82bf,Reentrancy,Vulnerable,Vulnerable,Safe,Safe,Vulnerable,Vulnerable
+github.com/uber/tensorflow/src/main/java/com/example/User.php,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testphp.vulweb.com/listproducts.php_dup2?cat=1,None,Safe,Safe,Safe,Safe,Safe,Safe
+GET https://api.example.com/v1/auth/login_dup5,Access Control,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0xedcb2d4c7e2e0dd252a2079658cac26cd755d941,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xe091ea715c08d9650dabbf569b75ed88e9788a7f,Improper Input Validation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/aws/kubernetes/api/v1/main.go,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/flask/app/controllers/main.go,Reentrancy,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/google/django/app/controllers/config.rb,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xc847649894b31308cec63a6229c31fe823549c0a (Uniswap V3 Pool),Use of Insufficiently Random Values,Safe,Vulnerable,Safe,Safe,Safe,Safe
+github.com/facebook/guava/src/main/java/com/example/views.py,None,Safe,Safe,Safe,Safe,Safe,Safe
+PUT https://api.example.com/v1/payment/charge_dup5,Cross-Site Scripting,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/aws/django/internal/auth/main.go,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/ansible/lib/utils/index.ts,OS Command Injection,Safe,Safe,Safe,Safe,Safe,Safe
+0x045d4a62f56ffcfb632125116d10b09e9247039e,Incorrect Calculation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/aws/tensorflow/app/controllers/views.py,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+https://juice-shop.herokuapp.com/#/search?q=orange,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/django/app/controllers/main.go,Integer Overflow,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/flutter/api/v1/config.rb,None,Safe,Safe,Safe,Safe,Safe,Safe
+GET https://api.example.com/v1/data/export_dup3,None,Vulnerable,Safe,Vulnerable,Safe,Safe,Indeterminate
+PUT https://api.example.com/v1/files/upload_dup3,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xd149d25fd5c48abf48528fb0c0126fbf8a8fb466,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/flask/api/v1/LoginController.java,None,Safe,Safe,Safe,Safe,Safe,Safe
+0xcbc34fdaad03f0fb1777235a494d49e4f8b30b03,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/aws/tensorflow/internal/auth/index.ts,OS Command Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/payment/charge,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x720a34dd50392f0c9655c32f7cb700c7e28e535f,OS Command Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/ansible/api/v1/LoginController.java,Improper Input Validation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/google/vscode/internal/auth/index.ts_dup2,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/admin/config_dup2,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/flutter/src/main/java/com/example/auth.js,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/payment/charge_dup6,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/data/export_dup4,Improper Access Control,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0xd8f327a05e5a665d61cf6f56495a778ab4057e92,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/flutter/lib/utils/LoginController.java,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/users_dup5,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/files/upload_dup4,None,Vulnerable,Safe,Safe,Safe,Safe,Safe
+POST https://api.example.com/v1/users_dup5,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/tensorflow/internal/auth/auth.js,Access Control,Vulnerable,Safe,Safe,Safe,Vulnerable,Safe
+github.com/twitter/flutter/api/v1/config.rb,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf8e701aa9ad55d98fbf2535a036f6f225507fdf6,Improper Access Control,Safe,Safe,Vulnerable,Safe,Safe,Safe
+DELETE https://api.example.com/v1/payment/charge_dup4,Integer Overflow,Safe,Safe,Safe,Safe,Safe,Safe
+POST https://api.example.com/v1/auth/login_dup5,Missing Authorization,Safe,Safe,Safe,Safe,Safe,Safe
+POST https://api.example.com/v1/auth/login_dup6,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/tensorflow/app/controllers/User.php,Unchecked Return Value,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x16e6e730c7fe0417cf241490e5d40252cf055930,Improper Authentication,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x6be2e16faf3c17f07304600e017a750b3902c67c,Use of Insufficiently Random Values,Safe,Safe,Vulnerable,Vulnerable,Safe,Safe
+github.com/netflix/ansible/src/main/java/com/example/User.php,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x31396d34187e6eded0cc869ec519d865a479b532,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xc6b8473fb0db9b3bb8f615cab43b7550de26aa90,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x6bfcee05b43194c82cdc19e881984f9d9f13fd26,Improper Input Validation,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/users_dup4,Mass Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/guava/lib/utils/LoginController.java,Integer Overflow,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/guava/app/controllers/views.py,Improper Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/google/vscode/server/routes/auth.js,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x0870644b2b010e0a681b8a13efb2fd8f764c6f72,CSRF,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x5470c1c9b8b284bcb30dd45feced659c0fb7966f,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/files/upload_dup2,Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/twitter/tensorflow/api/v1/User.php,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/auth/login_dup7,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+https://juice-shop.herokuapp.com/#/search_dup2?q=admin,Incorrect Calculation,Safe,Safe,Safe,Safe,Safe,Safe
+0x47d540a24ecbcc1378651a0df3096690f6fd940b,Improper Access Control,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/flask/app/controllers/main.go,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/google/ansible/internal/auth/auth.js,Access Control,Safe,Vulnerable,Safe,Safe,Safe,Safe
+github.com/aws/kubernetes/src/main/java/com/example/views.py_dup2,Missing Authorization,Safe,Safe,Safe,Safe,Safe,Safe
+0xd55a2e8aba5014d128d98567b947d02fa7e5e72f (Uniswap V3 Pool),Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/netflix/flutter/server/routes/auth.js,Use of Insufficiently Random Values,Safe,Safe,Safe,Safe,Safe,Safe
+0xc95cff60618c8bad279657713d3ab18856860f7f,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/users_dup6,Improper Authentication,Safe,Safe,Safe,Safe,Safe,Safe
+0xea3a7d62eedaf474ae6dd51d03f21ef82b63ee36,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/aws/flask/app/controllers/User.php,Access Control,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x587907482fee88f6a02dc2d3693386460590127e,Access Control,Safe,Safe,Safe,Vulnerable,Safe,Safe
+0x18ce5a4c03f45246ed7560278a73e31faff9d003 (Uniswap V3 Pool),Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/react/app/controllers/auth.js,Cross-site Scripting (XSS),Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx_dup12,Use of Insufficiently Random Values,Safe,Safe,Vulnerable,Safe,Safe,Safe
+http://zero.webappsecurity.com/index.html_dup3,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/flutter/api/v1/auth.js,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/files/upload_dup4,Unchecked Return Value,Safe,Safe,Safe,Safe,Safe,Safe
+GET https://api.example.com/v1/files/upload_dup4,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+GET https://api.example.com/v1/admin/config_dup2,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x5478af288721f0bc358a0e58abed352bdbc82a79,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/apache/django/src/main/java/com/example/main.go,Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+DELETE https://api.example.com/v1/admin/config_dup5,OS Command Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/kubernetes/lib/utils/config.rb,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/kubernetes/server/routes/LoginController.java,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/ansible/server/routes/views.py_dup2,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/kubernetes/app/controllers/index.ts,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x66a143a1dbb9111496243d24af0f2729d09e44cd,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x4d72b8f83f17c78f738ebf752a9208e77267b5c6,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/spring-boot/lib/utils/index.ts,None,Vulnerable,Safe,Safe,Safe,Safe,Safe
+GET https://api.example.com/v1/users_dup4,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/vscode/app/controllers/LoginController.java,OS Command Injection,Vulnerable,Vulnerable,Safe,Safe,Vulnerable,Indeterminate
+github.com/uber/flutter/src/main/java/com/example/views.py,SQL Injection (API),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x807ce494123e39e61da1a8489743ab35752450e2 (Uniswap V3 Pool),Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x6676567cb7339ec92d4704578e4d65cace199830,Integer Overflow,Safe,Vulnerable,Safe,Safe,Safe,Safe
+0x2e4e21f3af17f1788dd53287f417afd6ed19123e,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xca1b5c2e5c7478ab49a4a200b1adcc0265d9780f,Integer Overflow,Vulnerable,Vulnerable,Safe,Safe,Safe,Safe
+0x6663b3cb3b38bea4f5050ccac359d04943468f55,Use of Insufficiently Random Values,Safe,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/files/upload_dup5,OS Command Injection,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/facebook/react/internal/auth/index.ts,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/flask/app/controllers/LoginController.java,Access Control,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+0x94bf7c214a45896b9184cb400d698ac11fab8d7f (Uniswap V3 Pool),Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/auth/login_dup8,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup12,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x1cb8224416fef1a007fcbf26352bc69dd5961e82,Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+https://juice-shop.herokuapp.com/#/search_dup3?q=admin,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x5b8d10098e31889ec69968461870f06a66569fe6,Improper Authentication,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/tensorflow/app/controllers/auth.js,Improper Access Control,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Indeterminate
+http://testphp.vulweb.com/listproducts.php_dup2?cat=3,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/django/api/v1/index.ts,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/vscode/server/routes/index.ts,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x817ff3cc2944cc7bcc21d93d3ac70348cc7eb4ca (Uniswap V3 Pool),Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/flutter/api/v1/User.php,Improper Access Control,Safe,Safe,Safe,Vulnerable,Vulnerable,Safe
+0xb54efe78a8581c93333c7f9b7b761908a42d5896,Improper Authentication,Safe,Safe,Vulnerable,Safe,Safe,Safe
+0x46cee303152d0355e852982976cd88ed89b0d200,Missing Authentication for Critical Function,Safe,Safe,Safe,Safe,Safe,Safe
+0x6fb37fc0b8d1a8c4177e272243e9125dbc1e8121 (Uniswap V3 Pool),OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xbc5c65f63f19449d0cda5a01120977245158d5dc,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/spring-boot/api/v1/User.php,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/django/src/main/java/com/example/views.py,Incorrect Calculation,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+0x3731d8c9900e1df214e18ca7dd9bd51bf5059df8,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/react/src/main/java/com/example/main.go,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup13,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/vscode/app/controllers/index.ts,None,Safe,Safe,Safe,Safe,Safe,Safe
+PUT https://api.example.com/v1/auth/login_dup4,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/kubernetes/server/routes/auth.js,Use of Insufficiently Random Values,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/django/app/controllers/User.php,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/guava/app/controllers/config.rb,OS Command Injection,Safe,Safe,Safe,Safe,Safe,Safe
+http://testfire.net/bank/login.aspx_dup13,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/data/export_dup5,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/flask/app/controllers/LoginController.java,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xdfac860ef6cb0fca14b6ab58c1222755ce34fcf8,SQL Injection,Safe,Safe,Safe,Vulnerable,Safe,Safe
+github.com/aws/django/app/controllers/index.ts,OS Command Injection,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Indeterminate
+DELETE https://api.example.com/v1/data/export_dup6,Incorrect Permission Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/ansible/lib/utils/views.py,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/users_dup5,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/kubernetes/api/v1/views.py,Missing Authorization,Safe,Safe,Safe,Vulnerable,Safe,Safe
+0xe42ae02050411b41b75e1e1bce34071ff46e19ae,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x3941caf8aadb54ce8b502f5dfbddf9c8e82096d8,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/tensorflow/lib/utils/index.ts,SQL Injection,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+http://testphp.vulweb.com/listproducts.php_dup3?cat=3,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/vscode/server/routes/main.go,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x76b09baaf391433b37f320da74867f5c672b9dfc,OS Command Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/data/export_dup3,OS Command Injection,Safe,Safe,Safe,Safe,Safe,Safe
+https://juice-shop.herokuapp.com/#/search_dup2?q=apple,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/users_dup6,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xbea64b9ad4c60612a556d1eda1343ac50e1693c0,Missing Authorization,Safe,Safe,Vulnerable,Safe,Safe,Safe
+http://zero.webappsecurity.com/index.html_dup4,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/django/lib/utils/views.py,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0xc2472ced24d1924810b182f51f31a8ca414293ea,Access Control,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/data/export_dup4,Access Control,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/spring-boot/src/main/java/com/example/auth.js,Incorrect Calculation,Vulnerable,Safe,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/kubernetes/api/v1/auth.js,Incorrect Permission Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xbce53f9cae67d2efa6a199aedcda602834d0f77e,Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+0x49274b5e23683b702a935cb86c7e915f7a46dfc4,None,Safe,Safe,Safe,Safe,Safe,Safe
+PUT https://api.example.com/v1/data/export_dup4,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/kubernetes/internal/auth/index.ts,OS Command Injection,Safe,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/google/django/app/controllers/LoginController.java,Improper Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+0x6f2dce9bfc892a02edbd4446a107a08cb26befc0,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xcf11a52db91032fd695aef7e1c06d9ec7e0711f9,None,Safe,Safe,Safe,Safe,Safe,Safe
+GET https://api.example.com/v1/payment/charge_dup2,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://crackme.cenzic.com/keystroke.php_dup3,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/aws/flutter/src/main/java/com/example/index.ts,Incorrect Calculation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/airbnb/tensorflow/server/routes/auth.js,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/ansible/api/v1/auth.js,Use of Insufficiently Random Values,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/shopify/tensorflow/api/v1/LoginController.java,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/react/server/routes/views.py,Integer Overflow,Safe,Vulnerable,Safe,Safe,Safe,Safe
+0xead112a4f182971d01f99ab600dca19b2a816ac3,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x1bf279b399dee20a72c656f30e6c9714cb588cdb,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x64d56953fc7453f1257292c34d5c4a58b0a423d5,Access Control,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+GET https://api.example.com/v1/admin/config_dup3,Cross-Site Request Forgery (CSRF),Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Indeterminate
+0x72142c63556ac7f95bee9ba6d07087a87ccb546e,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/twitter/flutter/api/v1/main.go,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+http://testphp.vulweb.com/listproducts.php_dup2?cat=2,Missing Authorization,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/uber/react/src/main/java/com/example/main.go,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf6c71130b9397d86ddb8ebaf081e660e1be5a457,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/guava/src/main/java/com/example/main.go,Reentrancy,Vulnerable,Safe,Vulnerable,Safe,Safe,Safe
+github.com/shopify/flutter/lib/utils/User.php,Reentrancy,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/flutter/app/controllers/main.go,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/guava/internal/auth/auth.js,Incorrect Calculation,Safe,Vulnerable,Safe,Safe,Safe,Safe
+github.com/airbnb/tensorflow/server/routes/User.php,None,Safe,Safe,Safe,Safe,Safe,Safe
+http://testfire.net/bank/login.aspx_dup14,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/react/app/controllers/auth.js,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf97e48406a0beda30cbcf5e2c4e8da9ba35a3a40,Access Control,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x45ce1f18cde14f1ba21ac133554bc67a29ede862,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x3c8b44b01c3f26b96fa73c83da8d7469c07d63c3,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf939c26a6e7a7a19d2f01291ed91f7c4cf5ebe83 (Uniswap V3 Pool),Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xae253a5f4f639cfeefb0914af134f70411d53e7f,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/files/upload_dup5,Cross-Site Scripting,Safe,Safe,Safe,Safe,Safe,Safe
+DELETE https://api.example.com/v1/payment/charge_dup5,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/files/upload_dup6,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/twitter/vscode/internal/auth/auth.js,Incorrect Calculation,Vulnerable,Vulnerable,Safe,Safe,Vulnerable,Indeterminate
+github.com/twitter/flask/server/routes/auth.js,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/guava/app/controllers/config.rb,Improper Authentication,Safe,Vulnerable,Vulnerable,Safe,Safe,Safe
+0x8c12c179b0bc85b70190d0bed8f25477b0654dc5,Missing Authorization,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x7f2151e9048a13477bcf4d480a2a5c1dc74bbdc8,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/ansible/lib/utils/index.ts,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/admin/config_dup3,Improper Input Validation,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/tensorflow/api/v1/index.ts,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/flask/lib/utils/config.rb,CSRF,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x61228fce8b4c51b1b44b4b85766808b9c9ad4d37 (Uniswap V3 Pool),Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xe3138a544c2eb91bae332b118a52b6e125ad3839,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+https://juice-shop.herokuapp.com/#/search_dup3?q=apple,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/microsoft/tensorflow/server/routes/auth.js,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/files/upload_dup6,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0xd2b6e6512f533f604eb6a6ba9cebd66a5dc77c2c,Improper Access Control,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/twitter/kubernetes/api/v1/views.py,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/react/src/main/java/com/example/main.go,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/vscode/server/routes/index.ts,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/kubernetes/server/routes/auth.js,Reentrancy,Vulnerable,Vulnerable,Safe,Safe,Vulnerable,Indeterminate
+POST https://api.example.com/v1/admin/config_dup4,Improper Input Validation,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/data/export_dup5,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/vscode/lib/utils/LoginController.java,Improper Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+PUT https://api.example.com/v1/payment/charge_dup7,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/tensorflow/api/v1/auth.js,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x0af3e68c6477d1c3e6736aae0d02bff2483732c5,OS Command Injection,Safe,Vulnerable,Vulnerable,Safe,Vulnerable,Indeterminate
+PATCH https://api.example.com/v1/admin/config_dup2,Access Control,Safe,Safe,Safe,Vulnerable,Safe,Safe
+0x01d8cd32c407a581aca31903c8226da18d4a8023,Incorrect Calculation,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x25e6bf382de029ceff3081c08333c5dd652c9cc5,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xa179d3bacff5a1b86a62fb4d68caaa7c2a6a9aeb,None,Safe,Safe,Safe,Safe,Safe,Safe
+0xfe39ce06b49fcade9c5e0fbeb6def4c2647cef30,Use of Insufficiently Random Values,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/tensorflow/lib/utils/config.rb,Integer Overflow,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x6ea096d04c6196adc08e75134950358f5b5fd6dd,Reentrancy,Vulnerable,Safe,Vulnerable,Safe,Safe,Safe
+0x8a00beee7e8cdb5f3c4a55437253a202a6ddb4ad,CSRF,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+0x79b5f513d5809934036ad77430f4e16eb056579d,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x8be302122898e4c1e8ff663a587e893a7b9892c3,Incorrect Permission Assignment,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/google/guava/src/main/java/com/example/LoginController.java,Missing Authorization,Vulnerable,Vulnerable,Safe,Safe,Vulnerable,Vulnerable
+0x6caee265a0a5b4a87979fa19de6a7fd2963e386f,Reentrancy,Safe,Safe,Safe,Safe,Safe,Safe
+DELETE https://api.example.com/v1/users_dup7,OS Command Injection,Safe,Safe,Safe,Safe,Safe,Safe
+http://testphp.vulweb.com/listproducts.php_dup4?cat=3,Incorrect Permission Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/data/export_dup6,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/uber/flask/api/v1/config.rb,CSRF,Safe,Vulnerable,Safe,Safe,Safe,Safe
+0xd463b5794036232b052e38613f037bba4a758345,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/uber/tensorflow/src/main/java/com/example/index.ts,OS Command Injection,Safe,Safe,Safe,Safe,Safe,Safe
+POST https://api.example.com/v1/data/export_dup6,Reentrancy,Safe,Safe,Safe,Vulnerable,Safe,Safe
+0x6439a32cbe2fd43853fb9ea6b7192a73ed352184,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/vscode/app/controllers/config.rb,Incorrect Calculation,Vulnerable,Vulnerable,Safe,Safe,Vulnerable,Indeterminate
+github.com/google/django/lib/utils/LoginController.java,Improper Input Validation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/microsoft/react/src/main/java/com/example/LoginController.java,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx_dup15,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/twitter/django/internal/auth/LoginController.java,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/data/export_dup5,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x43ab09498eb9284120aa0e3c0ad3ae4ae500edfb,SQL Injection (API),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/spring-boot/src/main/java/com/example/views.py,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xd2283ef52e5f7862785983103b2b5a5a92e2b2a2,Unchecked Return Value,Vulnerable,Vulnerable,Safe,Safe,Safe,Safe
+http://testphp.vulweb.com/listproducts.php_dup2?cat=5,Use of Insufficiently Random Values,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x45615eb8d1942edbdede16ee399edbc2468193fc,Missing Authorization,Safe,Vulnerable,Vulnerable,Safe,Safe,Safe
+0x5cbb1ccafc5c6a1577c8cf29e6b6dcbf3db55607,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/spring-boot/server/routes/auth.js,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/files/upload_dup6,Unchecked Return Value,Safe,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/apache/tensorflow/src/main/java/com/example/main.go,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/auth/login_dup4,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x2a46c03fd047b0687994e3d469e5cdcd350ad047,Access Control,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/twitter/guava/lib/utils/views.py,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup14,Reentrancy,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Indeterminate
+github.com/aws/vscode/api/v1/LoginController.java,Missing Authentication for Critical Function,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0xf9772b6bb8ac452ced55cfa494cd2d8267f75dbb,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/spring-boot/internal/auth/auth.js,Cross-Site Scripting,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/netflix/guava/api/v1/LoginController.java,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/data/export_dup5,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/airbnb/react/lib/utils/main.go,SQL Injection,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0xac7ad1543e91d419516297f86deb9fca968e2039,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/auth/login_dup6,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x56a9aaba2f97b0658dfa9eefed0c8e9f2a539965,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/kubernetes/src/main/java/com/example/index.ts,Missing Authorization,Safe,Vulnerable,Safe,Safe,Safe,Safe
+PUT https://api.example.com/v1/files/upload_dup7,Incorrect Calculation,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/data/export_dup6,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+https://juice-shop.herokuapp.com/#/search_dup4?q=admin,Unchecked Return Value,Safe,Safe,Vulnerable,Vulnerable,Safe,Safe
+github.com/google/kubernetes/api/v1/LoginController.java,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup15,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/kubernetes/lib/utils/LoginController.java,Improper Input Validation,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Indeterminate
+github.com/aws/react/api/v1/User.php,Improper Authentication,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/flutter/server/routes/views.py,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/flask/lib/utils/views.py,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/react/app/controllers/config.rb_dup2,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/django/api/v1/views.py,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/payment/charge_dup6,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xc2c2fc6dba626bfd975031a719a0f7a5051602b7,None,Safe,Safe,Safe,Vulnerable,Safe,Safe
+github.com/airbnb/flask/src/main/java/com/example/views.py,SQL Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/ansible/api/v1/index.ts,Unchecked Return Value,Vulnerable,Safe,Safe,Safe,Safe,Safe
+github.com/uber/react/app/controllers/LoginController.java,Improper Authentication,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Indeterminate
+0x02af7e21968588e224eecead6a33e473682fcf31,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/data/export_dup6,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/payment/charge_dup4,SQL Injection,Safe,Safe,Safe,Safe,Safe,Safe
+http://testfire.net/bank/login.aspx_dup16,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://demo.testfire.net/search.jsp_dup18?query=test,SQL Injection,Safe,Safe,Safe,Safe,Safe,Safe
+0xe5d323d9ed3e8404ad331a2dab8d3f574ba6bd43,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/ansible/lib/utils/auth.js,Use of Insufficiently Random Values,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x1eb96823768093ac97222a101e1e92b37c513157 (Uniswap V3 Pool),Cross-Site Scripting,Safe,Safe,Safe,Safe,Safe,Safe
+http://altoromutual.com/bank/login.aspx_dup16,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xd68bb6f6f8d571e9b3746919834ed45febbb93f4,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x08608443656b1993bd4ecffd9f077987c4eca89b (Uniswap V3 Pool),Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://zero.webappsecurity.com/index.html_dup5,SQL Injection,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x75ed788f32ca2e67470ed8a61cc851d6f2916b8b,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x0d77ac1dbae1f518ad0526a80fdd48a395b48da1,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/flask/api/v1/index.ts,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/flutter/lib/utils/views.py,Cross-Site Scripting,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/microsoft/ansible/internal/auth/auth.js_dup2,Missing Authorization,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0xe55af11c6d6b8f06156ee3b2dc87980fa307b4de,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/spring-boot/lib/utils/LoginController.java,None,Vulnerable,Safe,Vulnerable,Safe,Safe,Indeterminate
+github.com/apache/kubernetes/app/controllers/config.rb,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/spring-boot/src/main/java/com/example/config.rb,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x389dc784cdaf3cfe9525e0756eb6456142d8aefd,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/admin/config_dup5,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/vscode/app/controllers/auth.js,Incorrect Permission Assignment,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Indeterminate
+POST https://api.example.com/v1/admin/config_dup6,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/auth/login_dup7,Incorrect Calculation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/aws/ansible/src/main/java/com/example/main.go,Improper Input Validation,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x643e0a7ff9aac3ca4ed85569631b72469f234075,OS Command Injection,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/airbnb/ansible/server/routes/LoginController.java,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/google/react/server/routes/User.php,CSRF,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/aws/django/api/v1/auth.js,None,Safe,Vulnerable,Vulnerable,Safe,Safe,Indeterminate
+github.com/aws/flask/internal/auth/User.php,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/microsoft/react/internal/auth/config.rb,Unchecked Return Value,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/airbnb/spring-boot/api/v1/config.rb,Access Control,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/files/upload_dup7,Improper Authentication,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/shopify/spring-boot/api/v1/index.ts,SQL Injection,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x93d339974d69b989c87a6ab7d582db3feb45194c,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/auth/login_dup9,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/flutter/app/controllers/auth.js,Missing Authorization,Safe,Safe,Safe,Safe,Safe,Safe
+0x54bcc4dc05ac55b95e035b6e6de8fa153689c06a,Missing Authentication for Critical Function,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/react/src/main/java/com/example/auth.js,Improper Authentication,Safe,Vulnerable,Safe,Safe,Safe,Safe
+0x42a9283febaa2a9fbc3d063500cd5060035e5383,SQL Injection,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/facebook/flask/lib/utils/views.py,Access Control,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x65695e2ea04cbe9c7c9c4fea361dc0b207e5b16e,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x69b7317bc246ff7456cc7df708d94cefa8d74fd9 (Uniswap V3 Pool),Use of Insufficiently Random Values,Safe,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup17,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xf97635680771e63f54076f7336dafbee0cc61437,Integer Overflow,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/twitter/spring-boot/api/v1/User.php,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/airbnb/ansible/lib/utils/main.go,Integer Overflow,Safe,Safe,Safe,Safe,Safe,Safe
+http://altoromutual.com/bank/login.aspx_dup18,Improper Input Validation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/microsoft/django/server/routes/auth.js,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/tensorflow/app/controllers/views.py,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/uber/flutter/src/main/java/com/example/User.php,Improper Authentication,Safe,Safe,Safe,Safe,Safe,Safe
+0x70e319998e3f2757daec7eb1bbf02a317c69c150,Improper Input Validation,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0xc6ab0343468b5324b489797ccdc8428eccbc3376,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/kubernetes/src/main/java/com/example/User.php,Improper Authentication,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xa88dc24fbbf962bbf601dca6d4e3fcfdf4968d6e,Missing Authorization,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/microsoft/spring-boot/server/routes/config.rb,Missing Authentication for Critical Function,Vulnerable,Safe,Vulnerable,Safe,Vulnerable,Vulnerable
+0x86eddd963cf74f7d421972fd6e55a7171c43d8f0,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xdfa4e22d268a944a6f91ba7c091609cc66932327,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/guava/server/routes/index.ts,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://crackme.cenzic.com/keystroke.php_dup4,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/tensorflow/lib/utils/User.php,Unchecked Return Value,Safe,Safe,Safe,Safe,Safe,Safe
+PATCH https://api.example.com/v1/auth/login_dup5,Missing Authorization,Safe,Safe,Safe,Safe,Safe,Safe
+GET https://api.example.com/v1/users_dup5,Incorrect Calculation,Vulnerable,Safe,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/twitter/tensorflow/server/routes/auth.js,Incorrect Calculation,Safe,Safe,Vulnerable,Safe,Safe,Safe
+github.com/shopify/flask/src/main/java/com/example/auth.js,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x9c28d84c1f5eeb377a47abc8e29689ed0a2d57a5,SQL Injection,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/ansible/api/v1/config.rb,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/files/upload_dup8,Cross-site Scripting (XSS),Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/kubernetes/src/main/java/com/example/main.go,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/twitter/react/api/v1/index.ts,Cross-Site Scripting,Safe,Safe,Safe,Safe,Safe,Safe
+0xc824d2ed07659374077cf53032a4543ab8246105,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/netflix/django/internal/auth/auth.js,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/twitter/kubernetes/api/v1/LoginController.java,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/users_dup8,None,Vulnerable,Safe,Safe,Safe,Safe,Safe
+github.com/uber/vscode/app/controllers/auth.js_dup2,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/apache/react/src/main/java/com/example/User.php,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/flask/app/controllers/User.php,Improper Input Validation,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/flask/internal/auth/config.rb,SQL Injection,Safe,Safe,Safe,Safe,Safe,Safe
+0xf2aae7c9739548f9dc39118ac9af940491e31f3d,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x228018356f9e1c7fb5639030290e40e230ad6b86,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x2749b32499d0bf575d767d8c4bd5caa685d09b9f,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/files/upload_dup9,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/airbnb/spring-boot/internal/auth/config.rb,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0xedd47e2b4e01374dd99fe8ba684d0cce44d855fa,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/vscode/internal/auth/auth.js,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x3f9e5eab9ede2bfd2c5ee982bcea1165fefe6fad,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/twitter/spring-boot/lib/utils/LoginController.java,OS Command Injection,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/guava/lib/utils/views.py_dup2,Cross-site Scripting (XSS),Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x152132ca03dc921413aeb95c45b3dc3811266989,Improper Authentication,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/facebook/spring-boot/lib/utils/config.rb,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/flask/src/main/java/com/example/views.py,Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/ansible/api/v1/main.go,Incorrect Calculation,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/auth/login_dup8,SQL Injection,Safe,Vulnerable,Safe,Vulnerable,Safe,Safe
+github.com/airbnb/flask/internal/auth/main.go,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x2f7175b7e4e983d9fbb1cc76caece2d6f69b6340,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x862d7a15b31565e4e534a6b37a75b40b66bc1895,Missing Authentication for Critical Function,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/flutter/internal/auth/main.go,Improper Input Validation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx_dup17,Integer Overflow,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x3eeb378f7dbd9b3bc90590e7e0b85c404002e607,None,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/shopify/flutter/api/v1/User.php_dup2,Integer Overflow,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/aws/tensorflow/server/routes/User.php,Unchecked Return Value,Vulnerable,Vulnerable,Safe,Safe,Vulnerable,Vulnerable
+github.com/uber/ansible/internal/auth/views.py,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/admin/config_dup3,Incorrect Permission Assignment,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x1e0b80a787f152ec354d20a8c5d7b7f845ae8e47,Reentrancy,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/tensorflow/app/controllers/views.py,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/react/server/routes/User.php_dup2,Reentrancy,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0x4aadfd906ed81ee8a706188ddd6e6e936a6871f3,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/guava/app/controllers/config.rb,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x354c0604fe96144498e7400838bbfc7144c8f97b,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testphp.vulweb.com/listproducts.php_dup3?cat=1,Improper Authentication,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://testphp.vulweb.com/listproducts.php_dup4?cat=1,Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/vscode/src/main/java/com/example/main.go,Access Control,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/uber/spring-boot/server/routes/main.go,None,Safe,Safe,Safe,Safe,Safe,Safe
+http://testfire.net/bank/login.aspx_dup18,OS Command Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x31247d197b22f20fe51f4db4d6a4a8a48819bd0c,Integer Overflow,Safe,Vulnerable,Safe,Safe,Safe,Safe
+github.com/google/flutter/src/main/java/com/example/views.py,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+0xa46642c2ed79fdfe24585c1ed2f65ea8ff13f637,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xcb743397b0d024107ff310f31328861de86d2058,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/kubernetes/api/v1/User.php,Integer Overflow,Safe,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/shopify/flask/lib/utils/views.py,Improper Input Validation,Safe,Vulnerable,Safe,Safe,Safe,Safe
+github.com/uber/ansible/server/routes/index.ts,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://altoromutual.com/bank/login.aspx_dup19,OS Command Injection,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0x4ead4fa8cd0f1549b95694f9272634b3f3205926,Improper Input Validation,Safe,Safe,Safe,Safe,Safe,Safe
+github.com/uber/django/src/main/java/com/example/LoginController.java,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/flask/api/v1/auth.js,Cross-Site Scripting,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/uber/react/internal/auth/LoginController.java_dup2,Use of Insufficiently Random Values,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xcd2c6e0b87e55c6ca1e64c33fd0202c92270df59,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PATCH https://api.example.com/v1/payment/charge_dup5,Unchecked Return Value,Safe,Safe,Safe,Safe,Safe,Safe
+0x18066e1b1c2f3b4a4a678f51d7c9401b79f43974,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/ansible/api/v1/User.php,Missing Authorization,Vulnerable,Safe,Safe,Safe,Safe,Safe
+github.com/google/ansible/app/controllers/index.ts,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x3957bcc1414974830afa11311f2b404acb68d385,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/tensorflow/lib/utils/User.php,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+PUT https://api.example.com/v1/admin/config_dup4,SQL Injection (API),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/apache/react/app/controllers/LoginController.java,Integer Overflow,Safe,Safe,Safe,Safe,Safe,Safe
+0x473f3c7910756609f6930e145636efc39735cba0,Improper Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+0x002020053814fee569957b3ffa6775af378eab2e,Cross-Site Scripting,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/users_dup8,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/aws/tensorflow/lib/utils/auth.js,None,Safe,Safe,Safe,Safe,Safe,Safe
+POST https://api.example.com/v1/files/upload_dup3,SQL Injection,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0xbd7443dc8cee8ca662e4c49e51082be1a6c4b5b3 (Uniswap V3 Pool),Cross-Site Request Forgery (CSRF),Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/netflix/flutter/src/main/java/com/example/User.php,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+GET https://api.example.com/v1/files/upload_dup5,Incorrect Calculation,Safe,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+https://juice-shop.herokuapp.com/#/search_dup5?q=admin,Missing Authorization,Vulnerable,Safe,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/flask/app/controllers/main.go,Incorrect Calculation,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+http://testfire.net/bank/login.aspx_dup19,None,Safe,Safe,Safe,Vulnerable,Safe,Safe
+github.com/twitter/react/lib/utils/main.go,Access Control,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable,Vulnerable
+github.com/microsoft/tensorflow/src/main/java/com/example/User.php,Missing Authorization,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+http://crackme.cenzic.com/keystroke.php_dup5,SQL Injection,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x0d2419e40ee4628cb463cf2b93d291fb00cb23a2,Improper Input Validation,Safe,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/facebook/vscode/app/controllers/views.py,Missing Authentication for Critical Function,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0x14aab41c3794fc16005a685720e7e8148e7cc03c,Improper Input Validation,Safe,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/twitter/guava/server/routes/views.py,Improper Access Control,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+0xd4082506a650e1502b8daf017fa45357e67b178f,Reentrancy,Vulnerable,Safe,Vulnerable,Vulnerable,Safe,Vulnerable
+0x3dded9d155b79d51e00aafb4568627790f6fe33d,Incorrect Calculation,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0x1741985d106e947e47cb457bb4491d3d562b57da,CSRF,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+DELETE https://api.example.com/v1/payment/charge_dup7,Missing Authorization,Vulnerable,Safe,Safe,Safe,Safe,Safe
+0x032682a01d56f78916fc3f829a74419a8bc94482,Improper Access Control,Safe,Safe,Safe,Safe,Safe,Safe
+0x4cc7e81750eed5e1be0e5fb4408c8c3a7509607b,None,Safe,Safe,Safe,Safe,Safe,Safe
+0x48578162611587ab51c240f2391aa2163e7b529b,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+github.com/google/spring-boot/lib/utils/main.go,Reentrancy,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+0xe789b29dd86910a57ea4650444f4d2569edb33a6,Use of Insufficiently Random Values,Vulnerable,Vulnerable,Vulnerable,Safe,Vulnerable,Vulnerable
+github.com/airbnb/django/api/v1/auth.js,Unchecked Return Value,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable
+POST https://api.example.com/v1/admin/config_dup7,Cross-site Scripting (XSS),Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable,Vulnerable

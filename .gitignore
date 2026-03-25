@@ -1,0 +1,38 @@
+# Zer0n-Bench .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive data - NEVER commit these!
+*.env
+.env.*
+*private_key*
+*secret*
+
+# Temporary files
+*.tmp
+*.log
+tmp*/
+
+# Node modules (if any)
+node_modules/
