@@ -111,7 +111,7 @@ If you use this dataset, please cite:
 ```bibtex
 @inproceedings{parmar2026zer0nbench,
   title     = {Zer0n-Bench: A Provenance-Aware Vulnerability Dataset for Studying Label Reliability},
-  author    = {Parmar, Harshil and Vyas, Pushti and Khristi, Prayers and Panchal, Priyank and Bhattacharjee, Sujaya and Naidu, Gayathri},
+  author    = {Harshil Parmar, Pushti Vyas, Prayers Khristi, Priyank Panchal, Gayathri Naidu and Sujaya Bhattacharjee},
   booktitle = {Proceedings of the 1st International Workshop on Data-Centric Security and Privacy for Software (Data4SoftSec)},
   series    = {IEEE S\&P Workshop},
   year      = {2026},

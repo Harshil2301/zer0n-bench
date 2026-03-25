@@ -16,7 +16,7 @@ import os
 # ==========================================
 # CONFIGURATION
 # ==========================================
-DEFAULT_PATH = os.path.join(os.path.dirname(__file__), '..', 'validation', 'iaa_results.csv')
+DEFAULT_PATH = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'validation', 'iaa_results.csv'))
 
 
 def load_data(filepath):
@@ -96,7 +96,8 @@ def fleiss_kappa(data, n_raters):
 
 def cohen_kappa(labels1, labels2):
     """Cohen's kappa for two raters."""
-    assert len(labels1) == len(labels2)
+    if len(labels1) != len(labels2):
+        raise ValueError(f"Label lists must be equal length: {len(labels1)} vs {len(labels2)}")
     n = len(labels1)
 
     cats = sorted(set(labels1) | set(labels2))

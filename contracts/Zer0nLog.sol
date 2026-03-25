@@ -10,11 +10,10 @@ contract Zer0nLog {
         bytes32 reportHash;
         uint256 timestamp;
         address auditor;
-        bool verified;
     }
 
-    // Mapping from Report Hash -> Log Definition
     mapping(bytes32 => LogEntry) public logs;
+    uint256 public totalLogs;
 
     event LogMinted(bytes32 indexed hash, address indexed auditor);
 
@@ -24,14 +23,14 @@ contract Zer0nLog {
      */
     function logVulnerabilityHash(bytes32 _hash) public {
         require(logs[_hash].timestamp == 0, "Hash already exists");
-        
+
         logs[_hash] = LogEntry({
             reportHash: _hash,
             timestamp: block.timestamp,
-            auditor: msg.sender,
-            verified: false
+            auditor: msg.sender
         });
 
+        totalLogs++;
         emit LogMinted(_hash, msg.sender);
     }
 
