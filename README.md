@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 # Quick validation (sample 10 entries)
 python validation/validate_schema.py --manifest splits.json --sample 10
-# Expected output: "SUCCESS: Sample 10 hashes validated successfully against Fuji testnet"
+# Expected output: "Sample 10 hashes validated successfully (verify on-chain via blockchain/blockchain_proofs.csv)"
 
 # Full validation (all 10,050 entries)
 python validation/validate_schema.py dataset/zeron_bench_v1.0_full.json
@@ -111,9 +111,9 @@ If you use this dataset, please cite:
 ```bibtex
 @inproceedings{parmar2026zer0nbench,
   title     = {Zer0n-Bench: A Provenance-Aware Vulnerability Dataset for Studying Label Reliability},
-  author    = {Harshil Parmar, Pushti Vyas, Prayers Khristi, Priyank Panchal, Gayathri Naidu and Sujaya Bhattacharjee},
+  author    = {Parmar, Harshil and Vyas, Pushti and Khristi, Prayers and Panchal, Priyank and Bhattacharjee, Sujaya and Naidu, Gayathri},
   booktitle = {Proceedings of the 1st International Workshop on Data-Centric Security and Privacy for Software (Data4SoftSec)},
-  series    = {IEEE S\&P Workshop},
+  series    = {IEEE S&P Workshop},
   year      = {2026},
   doi       = {10.5281/zenodo.18721352}
 }
