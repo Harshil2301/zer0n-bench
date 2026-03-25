@@ -6,7 +6,7 @@
 To provide a verifiable, tamper-evident benchmark for vulnerability detection models. Existing datasets lack provenance integrity (who generated the label?) and often contain "static obsolescence." Zer0n-Bench addresses this by anchoring every label to the Avalanche blockchain, allowing any researcher to independently verify that labels have not been altered since publication.
 
 **Who created the dataset?**
-The authors of "Zer0n-Bench: A Provenance-Enabled Vulnerability Dataset with Blockchain-Backed Integrity" (Data4SoftSec '26).
+The authors of "Zer0n-Bench: A Provenance-Aware Vulnerability Dataset for Studying Label Reliablity" (Data4SoftSec '26).
 
 ## Composition
 
@@ -20,9 +20,9 @@ Target identifiers are AI-generated representative paths modeled after real-worl
 
 **How many instances are there?**
 10,050 total instances:
-- 5,000 Web Applications (PHP, JavaScript, Python, Java)
-- 3,500 Smart Contracts (Solidity on Avalanche)
-- 1,550 APIs (REST/GraphQL endpoints)
+- 5,107 Web Applications (PHP, JavaScript, Python, Java)
+- 3,471 Smart Contracts (Solidity on Avalanche)
+- 1,472 APIs (REST/GraphQL endpoints)
 
 **Does the dataset contain all possible instances or is it a sample?**
 It is a curated synthetic sample designed to cover the OWASP Top 10 and CWE Top 25 with realistic category distributions.
@@ -85,7 +85,7 @@ No real systems were targeted. All instances are **synthetic vulnerability scena
 **Known Limitations**
 - ~90% of labels are AI-generated; human verification covers n=1,000 entries (10%)
 - LLM memorization bias cannot be excluded for scenarios modeled on publicly known CVEs
-- Class imbalance: 73.8% vulnerable / 26.2% safe — apply class weighting before training
+- Class imbalance: 73.9% vulnerable / 26.1% safe — apply class weighting before training
 - Language coverage: No C/C++ or Rust targets; results may not generalize to systems programming
 - Temporal snapshot: Labels reflect vulnerability patterns as of Feb 2026; some CWE classifications may evolve
 - Synthetic identifiers: Targets are not live URLs — dataset cannot be used for active vulnerability scanning
